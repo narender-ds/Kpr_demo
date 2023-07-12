@@ -1,0 +1,27 @@
+/* Hover Image */
+.container {
+  height: 100vh;
+  width: auto;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  background-color: #665276;
+}
+#landing-content {
+  overflow: hidden;
+  background-image: url("../images/card-left-01.webp");
+  width: 50%;
+  height: 55cqmax;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-left: auto;
+  margin-right: auto;
+}
+/* #top-image {
+    background:url('../images/card-left-01.webp') -25px -50px;
+    position:fixed ;
+    top:0;
+    width:100%;
+    z-index:0;
+      height:100%;
+      background-size: calc(100% + 50px);
+    } */
